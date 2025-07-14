@@ -20,5 +20,5 @@
 
 <h2>🌐Contatos:</h2>
 
-- Linkedin: <a href="https://www.linkedin.com/in/gabriel-ramalho-b13368348/" target="blank"></a>
-- Email: <a href="ramalhogabriel61@gmail.com"></a>
+- Linkedin: (https://www.linkedin.com/in/gabriel-ramalho-b13368348)
+- Email: (ramalhogabriel61@gmail.com)
