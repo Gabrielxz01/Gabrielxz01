@@ -1,5 +1,7 @@
-## Hi there 👋
+Olá!! Me chamo Gabriel 
 
+Sobre Mim:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
 **Gabrielxz01/Gabrielxz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
