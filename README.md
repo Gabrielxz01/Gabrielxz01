@@ -15,7 +15,7 @@
 
 
 <br> <h2>📊Estastísticas do GitHub:</h2>
-<img src="![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuário&show_icons=true&theme=radical)" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=seu-usuário&show_icons=true&theme=radical" alt="">
 <img src="" alt="">
 
 <h2>🌐Contatos:</h2>
