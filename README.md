@@ -11,12 +11,12 @@
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 
 <br> <h2>📊Estastísticas do GitHub:</h2>
-<img src="https://github-readme-stats.vercel.app/api?Gabrielxz01/&show_icons=true&theme=radical" alt="">
-<img src="https://streak-stats.demolab.com/?Gabrielxz01&theme=dark" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=Gabrielxz01&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielxz01&layout=compact&theme=radical" height="150"/>
 
 <h2>🌐Contatos:</h2>
 
