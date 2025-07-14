@@ -14,11 +14,13 @@
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 
-<h2>📊Estastísticas do GitHub</h2>
+<h2>📊Estastísticas do GitHub:</h2>
+<img src="" alt="">
+<img src="" alt="">
 
 <h2>🌐Contatos:</h2>
 
-<a href="https://www.linkedin.com/in/gabriel-ramalho-b13368348/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-ramalho-b13368348/" target="blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">
 </a>
 <a href="ramalhogabriel61@gmail.com">
