@@ -2,7 +2,7 @@
 
 <h2>Sobre Mim:</h2>
 
-<p> ✏️Em busca de ser melhor a todo momento. <br>
+<p> ✏️Em busca de ser o melhor a todo momento. <br>
 💻Estudante de Ciência da Computação. <br>
 🎮Atualmente aprendendo HTML, CSS e Javascript. <br> </p>
 
