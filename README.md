@@ -15,8 +15,8 @@
 
 
 <br> <h2>📊Estastísticas do GitHub:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=seu-usuário&show_icons=true&theme=radical" alt="">
-<img src="" alt="">
+<img src="https://github-readme-stats.vercel.app/api?Gabrielxz01/&show_icons=true&theme=radical" alt="">
+<img src="https://streak-stats.demolab.com/?Gabrielxz01&theme=dark" alt="">
 
 <h2>🌐Contatos:</h2>
 
