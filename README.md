@@ -20,5 +20,6 @@
 
 <h2>🌐Contatos:</h2>
 
-- Linkedin: (https://www.linkedin.com/in/gabriel-ramalho-b13368348)
 - Email: (ramalhogabriel61@gmail.com)
+- Linkedin: (https://www.linkedin.com/in/gabriel-ramalho-b13368348)
+- Instagram: (https://www.instagram.com/_gabrielwp_/?next=%2F)
