@@ -2,9 +2,9 @@
 
 Sobre Mim:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Em busca de ser melhor a todo momento.
-💻 Estudante de Ciência da Computação.
-Atualmente aprendendo HTML, CSS e Javascript.
+Em busca de ser melhor a todo momento. <br>
+💻 Estudante de Ciência da Computação. <br>
+Atualmente aprendendo HTML, CSS e Javascript. <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Habilidades:
 
